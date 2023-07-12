@@ -1,5 +1,5 @@
 
-# grocery_shope_app
+# user_shope_app
 
 User application for displaying products and merchants
 
