@@ -3,6 +3,8 @@
 
 User application for displaying products and merchants
 
+The Grocery Store customer account is your one-stop-shop for shopping for groceries online. With our platform, you can easily search for products, browse stores. You can also view detailed product information, including images and prices, and save your favorite products for easy access in the future. Plus, our app uses location-based technology to find nearby stores, making it easy to shop locally and support small businesses in your community. With the Grocery Store customer account, you can shop for groceries anytime, anywhere, and enjoy the convenience of online shopping from the comfort of your own home
+
 # images
 | :------: | :------: | :------: |
 | ![Product 1](img/app/app1.jpg) | ![Product 2](img/app/app2.jpg) | ![Product 3](img/app/app3.jpg) |
